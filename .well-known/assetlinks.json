@@ -5,7 +5,7 @@
         ],
         "target": {
             "namespace": "android_app",
-            "package_name": "com.boostorder.project_butter.v3.rep",
+            "package_name": "com.boostorder.v3.rep",
             "sha256_cert_fingerprints": [
                 "19:9F:35:91:86:0E:7C:B1:11:40:35:D4:9C:1A:AB:C3:71:B1:1A:17:A9:3E:65:64:8F:A1:69:82:F7:8E:BD:A1",
                 "05:AB:9D:F6:05:70:F5:F1:4B:C5:AD:1C:63:D4:7C:CA:2D:D2:A2:76:80:DA:8D:E0:D4:CD:86:79:56:E7:0D:B1",
