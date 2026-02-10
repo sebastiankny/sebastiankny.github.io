@@ -1,0 +1,22 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appIDs": [
+                    "B3F6T68TDA.com.boostorder.v3.rep"
+                ],
+                "components": [
+                    {
+                        "/": "/*/admin/business-partner/customer/*"
+                    }
+                ]
+            }
+        ]
+    },
+    "webcredentials": {
+        "apps": [
+            "B3F6T68TDA.com.boostorder.v3.rep"
+        ]
+    }
+}
